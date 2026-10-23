@@ -54,7 +54,7 @@ Igual que [AA Tube](https://github.com/missingus3r/aa-tube), con dos diferencias
 
 | Auto | Año |
 |---|---|
-| — | — |
+| Peugeot 208 | 2025 |
 
 **¿Te sirvió el repo?** Hacé un PR y agregá tu modelo de auto (y el año) a esta tabla, así otros
 saben en qué autos funciona.
